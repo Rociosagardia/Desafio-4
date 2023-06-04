@@ -1,0 +1,29 @@
+form{
+    width: 500px;
+}
+li,p{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    display:inline-block;
+}
+.img1{
+    width: 100px;
+    object-fit: contain;
+}
+.img2{
+    width: 70px;
+    object-fit: contain;
+    display: block;
+    margin: auto;
+}
+.size{
+    font-size: 14px;
+    margin: 1px;
+    margin-right: 10px;
+
+}
+.box{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 20px;
+}
